@@ -4,7 +4,7 @@
   "description": "react ts scaffold",
   "main": "index.ts",
   "scripts": {
-    "dev": "webpack-dev-server --config ./build/webpack.dev.js",
+    "start": "webpack-dev-server --config ./build/webpack.dev.js",
     "build": "webpack --config ./build/webpack.prod.js"
   },
   "repository": {
